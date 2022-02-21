@@ -1,0 +1,44 @@
+.testimonial_banner{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    padding: 40px;
+}
+
+.content__items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   
+}
+.content__items > h3{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    color: white;
+    text-decoration: none;
+}
+.content__items > h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    color: gray;
+}
+.content__items > p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    color: white;
+}
+.testimonial__item > p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    color: gray;
+}

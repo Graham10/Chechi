@@ -1,0 +1,11 @@
+.homepage {
+    background-color: black;
+    padding: 20px;
+    margin: 10px;
+    overflow: hidden;
+}
+
+h1 {
+    color: #fff;
+    text-transform: uppercase;
+}
