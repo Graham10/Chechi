@@ -1,5 +1,12 @@
 .slider img {
     width: 50%;
     height: 400px;
-    overflow: hidden;
 }
+
+/* @media (max-width:600px){
+    
+    .slider img{
+        width: 300px !important;
+        height: 300px;
+    }
+} */

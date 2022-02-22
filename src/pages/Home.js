@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/home.css'
 import Banner from '../components/banner'
-import Service from '../components/service'
+import Team from '../components/team'
 import Testimonial from '../components/testimonial'
 
 
@@ -10,7 +10,7 @@ const home = () => {
     <div className='homepage'>
       <h1>Home Page</h1>
       <Banner />
-      <Service />
+      <Team />
       <Testimonial />
     </div>
   );
